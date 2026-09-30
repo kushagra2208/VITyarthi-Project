@@ -1,0 +1,4 @@
+Cricket Bat,12,2500
+Football,30,850
+Badminton Racket,25,1200
+Tennis Balls (Pack),50,350

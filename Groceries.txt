@@ -1,0 +1,4 @@
+Rice (5kg),50,420
+Cooking Oil (1L),30,160
+Milk (1L),100,60
+Wheat Flour (10kg),20,380

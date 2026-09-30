@@ -1,0 +1,4 @@
+Cotton T-shirt,60,499
+Denim Jeans,35,2499
+Winter Jacket,18,2999
+Cotton Shirts,22,1999

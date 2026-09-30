@@ -1,0 +1,4 @@
+Laptop,15,80000
+Headphones,20,3500
+Smartphones,25,18000
+Wireless mouse,20,999
